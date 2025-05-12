@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  SwiftUIBase
+
+  Created by LongNH8 on 12/5/25.
+  
+*/
+
+// MARK: General
+"appName" = "アプリ";
